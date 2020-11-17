@@ -10,6 +10,8 @@ module.exports = merge(common, {
   mode: "production",
   // devtool: false,
   devtool: "source-map",
+
+ 
   output: {
     path: paths.build,
     publicPath: "./",

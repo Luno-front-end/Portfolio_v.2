@@ -1,0 +1,36 @@
+/* Chrome */
+progress {
+width: 500px;
+height: 5px;
+background-size: auto;
+&::-moz-progress-bar {
+background: rgb(207, 24, 97);
+}
+&::-webkit-progress-bar {
+background: rgb(170, 172, 255);
+  border-radius: 9px;
+
+}
+&::-o-progress-bar {
+background: rgb(255, 0, 0);
+}
+&::-ms-progress-bar {
+background: rgb(238, 255, 0);
+}
+
+&::-moz-progress-value {
+background: rgb(207, 24, 97);
+}
+&::-webkit-progress-value {
+background: rgb(170, 172, 255);
+  border-radius: 9px;
+
+}
+&::-o-progress-value {
+background: rgb(255, 0, 0);
+}
+&::-ms-progress-value {
+background: rgb(238, 255, 0);
+}
+}
+
