@@ -42,7 +42,7 @@
     "img-loader": "^3.0.2",
     "lodash.debounce": "^4.0.8",
     "mini-css-extract-plugin": "^1.2.1",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "optimize-css-assets-webpack-plugin": "^5.0.4",
     "postcss-loader": "^4.0.4",
     "postcss-preset-env": "^6.7.0",
